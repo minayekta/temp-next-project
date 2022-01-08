@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'bvazir';
+    src: url('../fonts/Vazir.eot');
+    src: url('../fonts/Vazir.woff') format('woff');
+    src: url('../fonts/Vazir.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+   font-family: 'bvazir-num';
+   src: url('../fonts/Vazir-Light-FD.eot');
+   src: url('../fonts/Vazir-Light-FD.woff') format('woff');
+   src: url('../fonts/Vazir-Light-FD.woff') format('truetype');
+   font-weight: normal;
+   font-style: normal;
+}
+  body{
+      font-family:'bvazir-num' !important;
+  }
+  
